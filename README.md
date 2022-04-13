@@ -1,6 +1,6 @@
 # 2SAT-Problem
 SAT (Boolean satisfiability problem) is the problem of assigning Boolean values to variables to satisfy a given Boolean formula. 
-The Boolean formula will usually be given in CNF(Conjuctive Normal form / Maxterms / POS form)
+The Boolean formula will usually be given in CNF(Conjuctive Normal form / Product of Maxterms / POS form)
 The General satisfiability problem can be solved in exponential time. 
 
 The special case of 2- satifiability problem is however polynomial time solvable.
