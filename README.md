@@ -10,6 +10,6 @@ eg:  (x v y), (~x v y), (~x v ~y)
 Brute Force: for n literals, truth table contains 2^n combinations that need to be checked.  O(2^n)  ( General satifiability problem solving approach)
 
 Optimzed approach: Using the comcept of Graph traversals and SCCs( Strongly Connected components) we can reduce the time complexity from O(2^n) to O(n).
-Data structures used: Adjacecy List, Stack, vectors.
+Data structures used: Adjacency List, Stack, vectors.
  
  
